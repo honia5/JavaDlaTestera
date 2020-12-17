@@ -26,7 +26,7 @@ public class Zadanie1 {
     if (sum3 % 2 == 0) {
       System.out.println("Wszystkie liczby są parzyste");
     } else {
-      System.out.println("Suma nie jest parzysta");
+      System.out.println("Suma wszystkich liczb nie jest parzysta");
     }
 
 
